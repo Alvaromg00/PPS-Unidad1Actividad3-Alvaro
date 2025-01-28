@@ -10,5 +10,5 @@ En esta actividad vamos a realizar pruebas unitarias sobre algunas funciones de 
 - Caja blanca de multiplicacion()
 ~~~
 
-Las pruebas se han realizado mediante UnitTest y estan escritas en un jupyter-lab, aqui esta el enlace al jypyter-lab:
+Las pruebas se han realizado mediante UnitTest y estan escritas en un jupyter-lab:
 [Archivo de Jupyter-lab con pruebas unitarias](PruebasUnitarias-calculadora.ipynb)
