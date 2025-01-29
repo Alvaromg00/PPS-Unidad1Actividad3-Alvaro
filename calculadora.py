@@ -65,8 +65,8 @@ def multiplicacion(a, b):
 
 # Función que divide los números
 def division(a, b):
-    if b == 0:
-        return "Error: División por cero"
+    if b <= 0:
+        return "Error, el dividendo debe ser mayor a 0"
     return a / b
 
 # Verifica si el valor es un número (entero o flotante)
